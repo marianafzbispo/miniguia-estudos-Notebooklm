@@ -1,6 +1,10 @@
 # miniguia-estudos-Notebooklm
 # 🧠 Miniguia de Estudos com NotebookLM – Grace Hopper
 
+LINK NOTEBOOKLM - GRACE HOPPER
+https://notebooklm.google.com/notebook/fb9a83d7-abfe-49f5-adf0-15ea3ecc7a4a/preview
+
+
 ## 📖 Sobre o Projeto
 
 Este projeto foi desenvolvido com o objetivo de criar um **"Segundo Cérebro"** utilizando o **NotebookLM**, tendo como base os conhecimentos, a trajetória e a forma de pensar de **Grace Hopper**, uma das maiores pioneiras da Ciência da Computação.
