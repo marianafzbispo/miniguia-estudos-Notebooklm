@@ -1,5 +1,5 @@
 # miniguia-estudos-Notebooklm
-# 🧠 Miniguia de Estudos com NotebookLM – Grace Hopper
+# Miniguia de Estudos com NotebookLM – Grace Hopper 
 
 LINK NOTEBOOKLM - GRACE HOPPER
 https://notebooklm.google.com/notebook/fb9a83d7-abfe-49f5-adf0-15ea3ecc7a4a/preview
